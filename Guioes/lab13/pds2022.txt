@@ -1,0 +1,28 @@
+/home/afonso/Desktop/PDS/Guioes/lab13
+2024/06/05 14:55:31
+
+Question 1) ----------------------------------
+
+--- All Products :
+Car [code=ZA11ZB, descr=Tesla, Grey, 2021, points=100.0]
+Van [code=AA22BB, descr=Chevrolet Chevy, 2020, points=180.0]
+Motorcycle [code=ZA33ZB, descr=Touring, 750, 2022, points=85.0]
+Car [code=BB44ZB, descr=Ford Mustang, Red, 2021, points=150.0]
+--- Shared Products :
+Total : 3
+ZA11ZB shared with 187; Peter Pereira
+BB44ZB shared with 826; Mary Monteiro
+ZA33ZB shared with 957; Anne Marques
+
+--- Shared Products :
+Total : 1
+ZA33ZB shared with 957; Anne Marques
+
+--- All Products :
+Van [code=AA22BB, descr=Chevrolet Chevy, 2020, points=180.0]
+Motorcycle [code=ZA33ZB, descr=Touring, 750, 2022, points=85.0]
+Car [code=BB44ZB, descr=Ford Mustang, Red, 2021, points=150.0]
+Jeep [code=JJ0011, descr=Some old SUV, points=88.5]
+
+Question 2 (output example) ----------------------------------
+
